@@ -1,0 +1,6 @@
+/data
+/models
+/log
+*.caffemodel
+*.log
+*.json
